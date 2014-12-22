@@ -1,0 +1,11 @@
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\4-Ejemplo Practico de Trabajo C#\4.2- Creacion Interfaz\videos\videos\bin\Debug\videos.exe.config
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\4-Ejemplo Practico de Trabajo C#\4.2- Creacion Interfaz\videos\videos\bin\Debug\videos.exe
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\4-Ejemplo Practico de Trabajo C#\4.2- Creacion Interfaz\videos\videos\bin\Debug\videos.pdb
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\4-Ejemplo Practico de Trabajo C#\4.2- Creacion Interfaz\videos\videos\obj\Debug\videos.csprojResolveAssemblyReference.cache
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\4-Ejemplo Practico de Trabajo C#\4.2- Creacion Interfaz\videos\videos\obj\Debug\videos.Form1.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\4-Ejemplo Practico de Trabajo C#\4.2- Creacion Interfaz\videos\videos\obj\Debug\videos.Properties.Resources.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\4-Ejemplo Practico de Trabajo C#\4.2- Creacion Interfaz\videos\videos\obj\Debug\videos.csproj.GenerateResource.Cache
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\4-Ejemplo Practico de Trabajo C#\4.2- Creacion Interfaz\videos\videos\obj\Debug\videos.exe
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\4-Ejemplo Practico de Trabajo C#\4.2- Creacion Interfaz\videos\videos\obj\Debug\videos.pdb
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\4-Ejemplo Practico de Trabajo C#\4.2- Creacion Interfaz\videos\videos\obj\Debug\Interop.Shell32.dll
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\4-Ejemplo Practico de Trabajo C#\4.2- Creacion Interfaz\videos\videos\obj\Debug\videos.csproj.ResolveComReference.cache

@@ -1,0 +1,6 @@
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\2-El Lenguaje\2.6-Funciones y procedimientos\2.6.1_todofunciones\2.6.1_todofunciones\bin\Debug\2.6.1_todofunciones.exe.config
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\2-El Lenguaje\2.6-Funciones y procedimientos\2.6.1_todofunciones\2.6.1_todofunciones\bin\Debug\2.6.1_todofunciones.exe
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\2-El Lenguaje\2.6-Funciones y procedimientos\2.6.1_todofunciones\2.6.1_todofunciones\bin\Debug\2.6.1_todofunciones.pdb
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\2-El Lenguaje\2.6-Funciones y procedimientos\2.6.1_todofunciones\2.6.1_todofunciones\obj\Debug\2.6.1_todofunciones.csprojResolveAssemblyReference.cache
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\2-El Lenguaje\2.6-Funciones y procedimientos\2.6.1_todofunciones\2.6.1_todofunciones\obj\Debug\2.6.1_todofunciones.exe
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\2-El Lenguaje\2.6-Funciones y procedimientos\2.6.1_todofunciones\2.6.1_todofunciones\obj\Debug\2.6.1_todofunciones.pdb

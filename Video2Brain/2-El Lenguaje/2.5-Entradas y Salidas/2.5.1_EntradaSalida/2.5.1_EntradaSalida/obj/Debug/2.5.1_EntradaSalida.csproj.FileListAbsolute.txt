@@ -1,0 +1,6 @@
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\2-El Lenguaje\2.5-Entradas y Salidas\2.5.1_EntradaSalida\2.5.1_EntradaSalida\bin\Debug\2.5.1_EntradaSalida.exe.config
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\2-El Lenguaje\2.5-Entradas y Salidas\2.5.1_EntradaSalida\2.5.1_EntradaSalida\bin\Debug\2.5.1_EntradaSalida.exe
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\2-El Lenguaje\2.5-Entradas y Salidas\2.5.1_EntradaSalida\2.5.1_EntradaSalida\bin\Debug\2.5.1_EntradaSalida.pdb
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\2-El Lenguaje\2.5-Entradas y Salidas\2.5.1_EntradaSalida\2.5.1_EntradaSalida\obj\Debug\2.5.1_EntradaSalida.csprojResolveAssemblyReference.cache
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\2-El Lenguaje\2.5-Entradas y Salidas\2.5.1_EntradaSalida\2.5.1_EntradaSalida\obj\Debug\2.5.1_EntradaSalida.exe
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\2-El Lenguaje\2.5-Entradas y Salidas\2.5.1_EntradaSalida\2.5.1_EntradaSalida\obj\Debug\2.5.1_EntradaSalida.pdb

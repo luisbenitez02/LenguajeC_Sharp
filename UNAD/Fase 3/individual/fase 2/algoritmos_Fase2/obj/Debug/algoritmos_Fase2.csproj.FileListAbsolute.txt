@@ -1,0 +1,44 @@
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\algoritmos_Fase2\algoritmos_Fase2\bin\Debug\algoritmos_Fase2.exe.config
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\algoritmos_Fase2\algoritmos_Fase2\bin\Debug\algoritmos_Fase2.exe
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\algoritmos_Fase2\algoritmos_Fase2\bin\Debug\algoritmos_Fase2.pdb
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\algoritmos_Fase2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.csprojResolveAssemblyReference.cache
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\algoritmos_Fase2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.Form1.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\algoritmos_Fase2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.Properties.Resources.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\algoritmos_Fase2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.romanos.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\algoritmos_Fase2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.csproj.GenerateResource.Cache
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\algoritmos_Fase2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.exe
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\algoritmos_Fase2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.pdb
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\algoritmos_Fase2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.dias_mes.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\algoritmos_Fase2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.sumatoria.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\algoritmos_Fase2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.promedio.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\algoritmos_Fase2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.password.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\algoritmos_Fase2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.operaciones.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\algoritmos_Fase2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.operador.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\algoritmos_Fase2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.converter.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\algoritmos_Fase2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.calculadora.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\algoritmos_Fase2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.dados.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\algoritmos_Fase2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.play_dados.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\algoritmos_Fase2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.adivina.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\algoritmos_Fase2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.adivina_basico.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\fase 2\algoritmos_Fase2\bin\Debug\algoritmos_Fase2.exe.config
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\fase 2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.exe
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\fase 2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.pdb
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\fase 2\algoritmos_Fase2\bin\Debug\algoritmos_Fase2.exe
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\fase 2\algoritmos_Fase2\bin\Debug\algoritmos_Fase2.pdb
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\fase 2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.csprojResolveAssemblyReference.cache
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\fase 2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.adivina.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\fase 2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.adivina_basico.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\fase 2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.calculadora.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\fase 2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.converter.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\fase 2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.dados.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\fase 2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.dias_mes.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\fase 2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.Form1.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\fase 2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.operaciones.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\fase 2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.operador.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\fase 2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.password.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\fase 2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.play_dados.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\fase 2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.promedio.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\fase 2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.Properties.Resources.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\fase 2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.romanos.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\fase 2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.sumatoria.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\individual\fase 2\algoritmos_Fase2\obj\Debug\algoritmos_Fase2.csproj.GenerateResource.Cache

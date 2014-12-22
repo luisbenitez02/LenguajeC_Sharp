@@ -1,0 +1,12 @@
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\Grupal\AsiSeEscribe\AsiSeEscribe\bin\Debug\AsiSeEscribe.exe.config
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\Grupal\AsiSeEscribe\AsiSeEscribe\bin\Debug\AsiSeEscribe.exe
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\Grupal\AsiSeEscribe\AsiSeEscribe\bin\Debug\AsiSeEscribe.pdb
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\Grupal\AsiSeEscribe\AsiSeEscribe\obj\Debug\AsiSeEscribe.csprojResolveAssemblyReference.cache
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\Grupal\AsiSeEscribe\AsiSeEscribe\obj\Debug\AsiSeEscribe.Form1.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\Grupal\AsiSeEscribe\AsiSeEscribe\obj\Debug\AsiSeEscribe.Properties.Resources.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\Grupal\AsiSeEscribe\AsiSeEscribe\obj\Debug\AsiSeEscribe.csproj.GenerateResource.Cache
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\Grupal\AsiSeEscribe\AsiSeEscribe\obj\Debug\AsiSeEscribe.exe
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\Grupal\AsiSeEscribe\AsiSeEscribe\obj\Debug\AsiSeEscribe.pdb
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\Grupal\AsiSeEscribe\AsiSeEscribe\obj\Debug\AsiSeEscribe.definicion.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\Grupal\AsiSeEscribe\AsiSeEscribe\obj\Debug\AsiSeEscribe.opcion.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\UNAD\Fase 3\Grupal\AsiSeEscribe\AsiSeEscribe\obj\Debug\AsiSeEscribe.escritura.resources

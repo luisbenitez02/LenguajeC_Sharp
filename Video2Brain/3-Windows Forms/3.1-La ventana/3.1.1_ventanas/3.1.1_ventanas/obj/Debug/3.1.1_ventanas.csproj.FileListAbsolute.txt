@@ -1,0 +1,9 @@
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\3-Windows Forms\3.1-La ventana\3.1.1_ventanas\3.1.1_ventanas\bin\Debug\3.1.1_ventanas.exe.config
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\3-Windows Forms\3.1-La ventana\3.1.1_ventanas\3.1.1_ventanas\bin\Debug\3.1.1_ventanas.exe
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\3-Windows Forms\3.1-La ventana\3.1.1_ventanas\3.1.1_ventanas\bin\Debug\3.1.1_ventanas.pdb
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\3-Windows Forms\3.1-La ventana\3.1.1_ventanas\3.1.1_ventanas\obj\Debug\3.1.1_ventanas.csprojResolveAssemblyReference.cache
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\3-Windows Forms\3.1-La ventana\3.1.1_ventanas\3.1.1_ventanas\obj\Debug\_3._1._1_ventanas.Appventana.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\3-Windows Forms\3.1-La ventana\3.1.1_ventanas\3.1.1_ventanas\obj\Debug\_3._1._1_ventanas.Properties.Resources.resources
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\3-Windows Forms\3.1-La ventana\3.1.1_ventanas\3.1.1_ventanas\obj\Debug\3.1.1_ventanas.csproj.GenerateResource.Cache
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\3-Windows Forms\3.1-La ventana\3.1.1_ventanas\3.1.1_ventanas\obj\Debug\3.1.1_ventanas.exe
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\3-Windows Forms\3.1-La ventana\3.1.1_ventanas\3.1.1_ventanas\obj\Debug\3.1.1_ventanas.pdb

@@ -1,0 +1,6 @@
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\Estructura de control Ingreso de datos\Estructura de control Ingreso de datos\bin\Debug\Estructura de control Ingreso de datos.exe.config
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\Estructura de control Ingreso de datos\Estructura de control Ingreso de datos\bin\Debug\Estructura de control Ingreso de datos.exe
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\Estructura de control Ingreso de datos\Estructura de control Ingreso de datos\bin\Debug\Estructura de control Ingreso de datos.pdb
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\Estructura de control Ingreso de datos\Estructura de control Ingreso de datos\obj\Debug\Estructura de control Ingreso de datos.csprojResolveAssemblyReference.cache
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\Estructura de control Ingreso de datos\Estructura de control Ingreso de datos\obj\Debug\Estructura de control Ingreso de datos.exe
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\Estructura de control Ingreso de datos\Estructura de control Ingreso de datos\obj\Debug\Estructura de control Ingreso de datos.pdb

@@ -1,0 +1,6 @@
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\Operadores\Operadores\bin\Debug\Operadores.exe.config
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\Operadores\Operadores\bin\Debug\Operadores.exe
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\Operadores\Operadores\bin\Debug\Operadores.pdb
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\Operadores\Operadores\obj\Debug\Operadores.csprojResolveAssemblyReference.cache
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\Operadores\Operadores\obj\Debug\Operadores.exe
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\Operadores\Operadores\obj\Debug\Operadores.pdb

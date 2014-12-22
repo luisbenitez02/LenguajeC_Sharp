@@ -1,0 +1,8 @@
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\4-Ejemplo Practico de Trabajo C#\4.1-Comenzar a Trabajar\4.1.1Shell\4.1.1Shell\bin\Debug\4.1.1Shell.exe.config
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\4-Ejemplo Practico de Trabajo C#\4.1-Comenzar a Trabajar\4.1.1Shell\4.1.1Shell\bin\Debug\4.1.1Shell.exe
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\4-Ejemplo Practico de Trabajo C#\4.1-Comenzar a Trabajar\4.1.1Shell\4.1.1Shell\bin\Debug\4.1.1Shell.pdb
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\4-Ejemplo Practico de Trabajo C#\4.1-Comenzar a Trabajar\4.1.1Shell\4.1.1Shell\obj\Debug\4.1.1Shell.csprojResolveAssemblyReference.cache
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\4-Ejemplo Practico de Trabajo C#\4.1-Comenzar a Trabajar\4.1.1Shell\4.1.1Shell\obj\Debug\Interop.Shell32.dll
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\4-Ejemplo Practico de Trabajo C#\4.1-Comenzar a Trabajar\4.1.1Shell\4.1.1Shell\obj\Debug\4.1.1Shell.csproj.ResolveComReference.cache
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\4-Ejemplo Practico de Trabajo C#\4.1-Comenzar a Trabajar\4.1.1Shell\4.1.1Shell\obj\Debug\4.1.1Shell.exe
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\4-Ejemplo Practico de Trabajo C#\4.1-Comenzar a Trabajar\4.1.1Shell\4.1.1Shell\obj\Debug\4.1.1Shell.pdb

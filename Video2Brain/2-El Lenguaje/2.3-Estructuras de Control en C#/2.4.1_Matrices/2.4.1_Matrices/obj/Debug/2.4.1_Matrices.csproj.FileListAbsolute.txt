@@ -1,0 +1,6 @@
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\2-El Lenguaje\2.3-Estructuras de Control en C#\2.4.1_Matrices\2.4.1_Matrices\bin\Debug\2.4.1_Matrices.exe.config
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\2-El Lenguaje\2.3-Estructuras de Control en C#\2.4.1_Matrices\2.4.1_Matrices\bin\Debug\2.4.1_Matrices.exe
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\2-El Lenguaje\2.3-Estructuras de Control en C#\2.4.1_Matrices\2.4.1_Matrices\bin\Debug\2.4.1_Matrices.pdb
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\2-El Lenguaje\2.3-Estructuras de Control en C#\2.4.1_Matrices\2.4.1_Matrices\obj\Debug\2.4.1_Matrices.csprojResolveAssemblyReference.cache
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\2-El Lenguaje\2.3-Estructuras de Control en C#\2.4.1_Matrices\2.4.1_Matrices\obj\Debug\2.4.1_Matrices.exe
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\2-El Lenguaje\2.3-Estructuras de Control en C#\2.4.1_Matrices\2.4.1_Matrices\obj\Debug\2.4.1_Matrices.pdb

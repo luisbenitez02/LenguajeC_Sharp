@@ -1,0 +1,6 @@
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Luis\Mis documentos\GitHub\Visual Studio 2013\Video2Brain\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
